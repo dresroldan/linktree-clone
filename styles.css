@@ -26,7 +26,7 @@ display: flex;
 
 
 .title-links{
-    padding-top: 150px;
+    padding-top: 125px;
 }
 
 
@@ -39,10 +39,10 @@ display: flex;
 
 
 .button {
-    background-color:transparent;
-
-    color: white;
-    border: 2px solid white;
+    background-color:rgba(255, 255, 255, 0.477);
+    /* opacity: 0.5; */
+    color:rgba(0, 0, 0, 0.750);
+    border: 1px solid rgba(255, 255, 255, 0.100);
     border-radius: 10px;
    max-width: 40%;
    min-width: 70%;
@@ -55,14 +55,16 @@ display: flex;
     margin-bottom: 20px;
     transition-duration: 0.4s;
     cursor: pointer;
-    letter-spacing: 10px;
+
     /* font-weight: 900; */
+    
   }
 
 
 
   .button:hover{
-    background-color: white;
+    background-color:white;
+  opacity: 2;
     color: black;
     transition: 500ms;
   }
