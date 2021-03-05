@@ -10,8 +10,8 @@ background-size: cover;
 
 img {
     border-radius: 50%;
-    width: 150px;
-    padding-left: 22px;
+    width: 130px;
+    padding-left: 20px;
     margin-bottom: 50px;
   }
 .container{
@@ -49,7 +49,7 @@ display: flex;
     text-decoration: none;
     display: inline-block;
     font-size: 22px;
-    font-family: "Fluro";
+    font-family: 'FLURO';
     margin-bottom: 20px;
     transition-duration: 0.4s;
     cursor: pointer;
