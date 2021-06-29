@@ -1,14 +1,14 @@
-# linktree-clone
+# Buen Viaje Radio
 
 ## Description
 
-A link navigation site made for radio station, Buen Viaje Radio. 
+A link navigation site made for radio station, Buen Viaje Radio.
 
-buenviajeradio.com 
+buenviajeradio.com
 
 ## Technologies
 
 *HTML</br>
-*SCSS</br>
+*CSS</br>
 
 ![](/images/buenviaje-main-screenshot.png)
